@@ -37,6 +37,9 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+
+# vim backup file
+*.swap
 .coverage
 .coverage.*
 .cache
